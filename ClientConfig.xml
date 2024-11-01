@@ -1,0 +1,5 @@
+<ClientConfig>
+	<GameClient name="Color Cubes" clientCode="mobile" technology="HTML" height="600" width="800" meterheight="0" meterwidth="10" gameFolder="ColorCubesUI2" enableFreeSpin="Y" clientversion="1.0" gameId="300-2049-1" />
+	<GameClient name="Color Cubes" clientCode="tablet" technology="HTML" height="600" width="800" meterheight="0" meterwidth="10" gameFolder="ColorCubesUI2" enableFreeSpin="Y" clientversion="1.0" gameId="300-2049-1" />
+	<GameClient name="Color Cubes" clientCode="desktop" technology="HTML" height="600" width="800" meterheight="0" meterwidth="10" gameFolder="ColorCubesUI2" enableFreeSpin="Y" clientversion="1.0" gameId="300-2049-1" />
+</ClientConfig>

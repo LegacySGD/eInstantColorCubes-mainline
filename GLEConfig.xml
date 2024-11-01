@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<GAMES>
+    <family code="2049" desc="Lottery Game" studio="interactive" organizationName="Interactive">
+        <game name="Color Cubes COM" version="1.0.18" gameengineversion="2" gamelogicversion="1.0"
+              number="1"
+              jackpotid=""
+              gametype="L"
+              loadprevstate="N"
+              numberGenerator="RNG"
+              betMultipliers="50,100,200,300,500,1000"
+              spots=""
+              productId="1"
+              gamegroup="eGames"
+              languages="de,en,fr_CA,it,sv"
+              skbPlatformVersion="1.4.0"
+              merchandisePrize="N"
+              stateful="N"> 
+            <paymodel modelid="300-2049-101"  revealId="2049" revealVersionId="2049"
+                      confidentlevelpct="95" maxmainbetwin="0" maxsidebetwin="0"
+                      mincoins="0" cointhreshold="0"
+                      name="Color Cubes : 300-2049-101"
+                      hibethold="7.00" lobethold="7.00"
+                      hibetsd="3.641" lobetsd="3.641" fixedminmax="Y" maxcoins="1000"/>
+            <paymodelConfig modelid="300-2049-101"   clienttype="HTML" configcode="IXML"/>
+            <paymodelConfig modelid="300-2049-101"   clienttype="HTML" configcode="PHLP"/>
+            <paymodel modelid="300-2049-102"  revealId="2049" revealVersionId="2049"
+                      confidentlevelpct="95" maxmainbetwin="0" maxsidebetwin="0"
+                      mincoins="0" cointhreshold="0"
+                      name="Color Cubes : 300-2049-102"
+                      hibethold="11.00" lobethold="11.00"
+                      hibetsd="3.641" lobetsd="3.641" fixedminmax="Y" maxcoins="1000"/>
+            <paymodelConfig modelid="300-2049-102"   clienttype="HTML" configcode="IXML"/>
+            <paymodelConfig modelid="300-2049-102"   clienttype="HTML" configcode="PHLP"/>
+            <paymodel modelid="300-2049-103"  revealId="2049" revealVersionId="2049"
+                      confidentlevelpct="95" maxmainbetwin="0" maxsidebetwin="0"
+                      mincoins="0" cointhreshold="0"
+                      name="Color Cubes : 300-2049-103"
+                      hibethold="15.00" lobethold="15.00"
+                      hibetsd="3.641" lobetsd="3.641" fixedminmax="Y" maxcoins="1000"/>
+            <paymodelConfig modelid="300-2049-103"   clienttype="HTML" configcode="IXML"/>
+            <paymodelConfig modelid="300-2049-103"   clienttype="HTML" configcode="PHLP"/>
+            <denom currencycode="CAD" amount="0.01,0.02"/>
+            <denom currencycode="EUR" amount="0.01"/>
+            <denom currencycode="FPY" amount="0.01,1.00"/>
+            <denom currencycode="GBP" amount="0.01"/>
+            <denom currencycode="USD" amount="0.01,0.02"/>
+        </game>
+    </family>
+</GAMES>

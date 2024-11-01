@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<translation language="sv">
+<phrase key="softwareId" value="Programvaru-ID"/>
+<phrase key="transactionId" value="Transaktions-ID"/>
+<phrase key="totalWins" value="Total vinst"/>
+<phrase key="totalWager" value="Total satsning"/>
+<phrase key="outcomes" value="Utfall"/>
+<phrase key="cubeColor" value="Kubfärg"/>
+<phrase key="numberCollected" value="Antal insamlade"/>
+<phrase key="cumulativeTotal" value="Sammanlagd summa"/>
+<phrase key="prize" value="Pris"/>
+<phrase key="A" value="Lila"/>
+<phrase key="B" value="Blå"/>
+<phrase key="C" value="Grön"/>
+<phrase key="D" value="Gul"/>
+<phrase key="E" value="Orange"/>
+<phrase key="F" value="Röd"/>
+<phrase key="starWins" value="Stjärnvinst"/>
+<phrase key="1" value="Stjärna"/>
+<phrase key="2" value="Stjärna"/>
+<phrase key="3" value="Stjärna"/>
+<phrase key="X" value="Bomb"/>
+<phrase key="turn" value="Runda"/>
+<phrase key="instantWin" value="Direktvinst"/>
+</translation>
